@@ -10,17 +10,17 @@ python app/app.py
 
 Dataset that I used to train: scb_mt_enth_2020 from siam commercial bank (SCB) (https://airesearch.in.th/releases/machine-translation-datasets/), (https://huggingface.co/datasets/scb_mt_enth_2020)
 
-Train and Validation loss graph
-General attention:
-![Alt Text](https://github.com/Noppawee-Teeraratchanon/NLP_A3_Machine_Translation/blob/main/images/plot_general.png)
-Multiplicative attention:
-![Alt Text](https://github.com/Noppawee-Teeraratchanon/NLP_A3_Machine_Translation/blob/main/images/plot_multiplicative.png)
+Train and Validation loss graph<br>
+General attention:<br>
+![Alt Text](https://github.com/Noppawee-Teeraratchanon/NLP_A3_Machine_Translation/blob/main/images/plot_general.png)<br>
+Multiplicative attention:<br>
+![Alt Text](https://github.com/Noppawee-Teeraratchanon/NLP_A3_Machine_Translation/blob/main/images/plot_multiplicative.png)<br>
 
-Attention map
-General attention:
-![Alt Text](https://github.com/Noppawee-Teeraratchanon/NLP_A3_Machine_Translation/blob/main/images/attention_maps_general.png)
-Multiplicative attention:
-![Alt Text](https://github.com/Noppawee-Teeraratchanon/NLP_A3_Machine_Translation/blob/main/images/attention_maps_multi.png)
+Attention map <br>
+General attention:<br>
+![Alt Text](https://github.com/Noppawee-Teeraratchanon/NLP_A3_Machine_Translation/blob/main/images/attention_maps_general.png)<br>
+Multiplicative attention:<br>
+![Alt Text](https://github.com/Noppawee-Teeraratchanon/NLP_A3_Machine_Translation/blob/main/images/attention_maps_multi.png)<br>
 
 Screenshot of my web interface:
 ![Alt Text](https://github.com/Noppawee-Teeraratchanon/NLP_A3_Machine_Translation/blob/main/images/A3_webpage.png)
