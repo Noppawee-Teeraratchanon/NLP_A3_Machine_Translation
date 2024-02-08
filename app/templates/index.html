@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Machine Translation Website</title>
+</head>
+<body>
+    <h1>Machine Translation from English to Thai</h1>
+    
+    <form method="post" action="/">
+        <label for="search_query">English text:</label>
+        <input type="text" id="search_query" name="search_query"  placeholder="Enter English text..." value="{{ search_query }}" required>
+        <button type="submit">Translate</button>
+    </form>
+
+    <h3>Translation Text</h3>
+
+    <p>{{ translated_thai }}</p>
+</body>
+</html>
